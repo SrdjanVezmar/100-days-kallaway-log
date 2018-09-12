@@ -27,9 +27,18 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 
 **Link to work:** [Build Product Page](https://codepen.io/Srcko85/pen/BOYaWP?editors=1100)
 
-### DAY 03. / 11th September 2018. Monday
+### DAY 03. / 11th September 2018. Tuesday
 **Todays Progress**: Lets carry on with freecodecamp projects. Gonna try to finish and first certificate in next two days.
 
 **Todays Topics**: Build a Technical Documentation Page
 
 **Link to work:** [Build Technical Documentation Page](https://codepen.io/Srcko85/pen/eLVarL) 
+
+### DAY 04. / 12th September 2018. Wednesday
+**Todays Progress**: Last of the projects & need to do to finish Responsive Design part of freecodecamp. Let's smash this.
+
+**Todays Topics**: Build a Personal Portfolio Webpage
+
+**Link to work:** [Build a Personal Portfolio Webpage](https://codepen.io/Srcko85/pen/qMYEyV) 
+
+
