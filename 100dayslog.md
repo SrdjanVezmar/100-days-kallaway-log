@@ -43,8 +43,9 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 
 ### DAY 05. / 13th September 2018. Thursday
 **Todays Progress**: As I said yesterday I have finished my 5 projects and got Responsive Web Design Certificate from FreeCodeCamp. Time to spend next month with JavaScript. Today I am starting Javascript Algorithms And Data Structures Certification (300 hours) section on freecodecamp and after that I will do daily projects from WEsBos 30DaysOfVanillaJS, but more on that latter. 
-**Todays Topics**: Build a Personal Portfolio Webpage
 
-**Link to work:** [Build a Personal Portfolio Webpage](https://codepen.io/Srcko85/pen/qMYEyV) 
+**Todays Topics**: Basics of Javascript. Because I have just started this section which didn't have no real projects I have decided to do Random Quote Generator ,where I can cover first part of this course.
+
+**Link to work:** [Random Quotes Generator](https://codepen.io/Srcko85/pen/WgyNBy) 
 
 
