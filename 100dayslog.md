@@ -53,6 +53,6 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 
 **Todays Topics**: Stand in Line, Understanding Boolean Values,Use Conditional Logic with If Statements, Comparison with the Equality Operator, Comparison with the Strict Equality Operator, Practice comparing different values, Comparison with the Inequality Operator, Comparison with the Strict Inequality Operator, Comparison with the Greater Than Operator, Comparison with the Greater Than Or Equal To Operator, Comparison with the Less Than Operator, Comparison with the Less Than Or Equal To Operator, Comparisons with the Logical And Operator, Comparisons with the Logical Or Operator, Introducing Else Statements,Introducing Else If Statements, Logical Order in If Else Statement, Chaining If Else Statements,Golf Code.
 
-**Link to work:** [Random Quotes Generator](https://codepen.io/Srcko85/pen/WgyNBy) 
+**Link to work:** [Change Background on Click with Javascript](https://codepen.io/Srcko85/pen/BOPjvO?editors=0110) 
 
 
