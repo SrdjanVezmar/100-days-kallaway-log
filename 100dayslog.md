@@ -48,4 +48,11 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 
 **Link to work:** [Random Quotes Generator](https://codepen.io/Srcko85/pen/WgyNBy) 
 
+### DAY 06. / 14th September 2018. Friday
+**Todays Progress**: Happy Friyay everyone. No need for some long progress description, as yesterday same today just going forward with javascript. Will do some small project again. I think I will spend most of my time from now and till the end with javascript.
+
+**Todays Topics**: Basics of Javascript. Because I have just started this section which didn't have no real projects I have decided to do Random Quote Generator ,where I can cover first part of this course.
+
+**Link to work:** [Random Quotes Generator](https://codepen.io/Srcko85/pen/WgyNBy) 
+
 
