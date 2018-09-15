@@ -60,6 +60,6 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 
 **Todays Topics**: Chaining If Else Statements, Golf Code, Selecting from Many Options with Switch Statements, Adding a Default Option in Switch Statements, Multiple Identical Options in Switch Statements, Replacing If Else Chains with Switch, Returning Boolean Values from Functions, Return Early Pattern for Functions, Counting Cards, Build JavaScript Objects, Accessing Object Properties with Dot Notation, Accessing Object Properties with Bracket Notation, Accessing Object Properties with Variables, Updating Object Properties, Add New Properties to a JavaScript Object, Delete Properties from a JavaScript Object.
 
-**Link to work:** [Change Background on Click with Javascript](https://codepen.io/Srcko85/pen/BOPjvO?editors=0110) 
+**Link to work:** [HEX COLOR CODE GENERATOR](https://jsfiddle.net/SrdjanVezmar/f8o9e4tq/) 
 
 
