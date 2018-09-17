@@ -62,4 +62,16 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 
 **Link to work:** [HEX COLOR CODE GENERATOR](https://jsfiddle.net/SrdjanVezmar/f8o9e4tq/) 
 
+### DAY 08. / 16th September 2018. Sunday
+**Todays Progress**: Sunday,sunday. Decided to take easy day today,so I have done a part of Javascript certificate on freecodecamp but not really went crazy today. Need to be ready for a new week starting. But still have done almost 2hrs coding today .
+
+**Todays Topics**: Using Objects for Lookups, Testing Objects for Properties, Manipulating Complex Objects, Accessing Nested Objects, Accessing Nested Arrays, Record Collection, Iterate with JavaScript While Loops, Iterate with JavaScript For Loops, Iterate Odd Numbers With a For Loop, Count Backwards With a For Loop, Iterate Through an Array with a For Loop, Nesting For Loops
+
+### DAY 09. / 16th September 2018. Monday
+**Todays Progress**: Happy Monday. As every day I have done some javascript and decided to go and do simple javascript projecttodayy. Also spent day working on a website for one small local company but it is on wordpress so not really coding challenge. 
+
+**Todays Topics**: Building simple JS project
+
+**Link to work:** [HEX COLOR CODE GENERATOR](https://jsfiddle.net/SrdjanVezmar/f8o9e4tq/) 
+
 
