@@ -75,10 +75,10 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 **Link to work:** [Save Last Msg Sent with JS](https://codepen.io/Srcko85/pen/wEYPxa) 
 
 ### DAY 10. / 17th September 2018. Tuesday
-**Todays Progress**: Today decided to go a different , so decided to help and make existing wp website mobile friendly with custom CSS3. IT was different but was really nice to take a day off from freecodecamp JS alghoritms. 
+**Todays Progress**: Today decided to go a different , so went and helped to make existing wp website mobile friendly with custom CSS3. IT was different but was really nice to take a day off from freecodecamp JS alghoritms. 
 
-**Todays Topics**: MAking existing wordpress site mobile responsive with custom CSS3
+**Todays Topics**: Making existing wordpress site mobile responsive with custom CSS3
 
-**Link to work:** [MERKOD DOO WEbsite](http://merkod.com/) 
+**Link to work:** [MERKOD DOO Website](http://merkod.com/) 
 
 
