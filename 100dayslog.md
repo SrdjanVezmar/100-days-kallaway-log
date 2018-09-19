@@ -81,4 +81,10 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 
 **Link to work:** [MERKOD DOO Website](http://merkod.com/) 
 
+### DAY 11. / 18th September 2018. Wednesday
+**Todays Progress**: This week is crazy busy, waking up at 6am every morning and coming back home at 8pm. But still will manage my 'at least hour a day..' coding challenge. Javascript all the way and to be honest I think JS will my main topic in following months.
+
+**Todays Topics**: Iterate with JavaScript Do...While Loops,
+**Link to work:** [MERKOD DOO Website](http://merkod.com/) 
+
 
