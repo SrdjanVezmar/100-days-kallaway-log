@@ -86,6 +86,13 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 
 **Todays Topics**: Iterate with JavaScript Do...While Loops, Profile Lookup, Generate Random Fractions with JavaScript, Generate Random Whole Numbers with JavaScript, Generate Random Whole Numbers within a Range, Use the parseInt Function,  Use the parseInt Function with a Radix, Use the Conditional (Ternary) Operator, Use Multiple Conditional (Ternary) Operators 
 
+### DAY 11. / 19th September 2018. Thursday
+**Todays Progress**: Not wanna to talk same things every day, so just a simple went with ES6 JS part should be enough. 
+
+**Todays Topics**: ES6: ES6: Explore Differences Between the var and let Keywords, Compare Scopes of the var and let Keywords, ES6: Declare a Read-Only Variable with the const Keyword, ES6: Mutate an Array Declared with const, ES6: Prevent Object Mutation, ES6: Use Arrow Functions to Write Concise Anonymous Functions, ES6: Write Arrow Functions with Parameters, ES6: Write Higher Order Arrow Functions.
+
+**Link to work:** [MERKOD DOO Website](http://merkod.com/) 
+
 
 
 
