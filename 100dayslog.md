@@ -91,7 +91,7 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 
 **Todays Topics**: ES6: ES6: Explore Differences Between the var and let Keywords, Compare Scopes of the var and let Keywords, ES6: Declare a Read-Only Variable with the const Keyword, ES6: Mutate an Array Declared with const, ES6: Prevent Object Mutation, ES6: Use Arrow Functions to Write Concise Anonymous Functions, ES6: Write Arrow Functions with Parameters, ES6: Write Higher Order Arrow Functions.
 
-**Link to work:** [MERKOD DOO Website](http://merkod.com/) 
+**Link to work:** [CHANGING HEADLINE LOOP](https://codepen.io/Srcko85/pen/mGvQZK) 
 
 
 
