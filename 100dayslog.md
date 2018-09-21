@@ -93,6 +93,13 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 
 **Link to work:** [CHANGING HEADLINE LOOP](https://codepen.io/Srcko85/pen/mGvQZK) 
 
+### DAY 12. / 20th September 2018. Friday
+**Todays Progress**: ES6 ES6 ES6. Done nice little color picker with JS today after I have finished few sections of my ES6 JS on freecodecamp. 
+
+**Todays Topics**: ES6: Set Default Parameters for Your Functions, ES6: Use the Rest Operator with Function Parameters, ES6: Use the Spread Operator to Evaluate Arrays In-Place, ES6: Use Destructuring Assignment to Assign Variables from Objects, ES6: Use Destructuring Assignment to Assign Variables from Nested Objects, ES6: Use Destructuring Assignment to Assign Variables from Nested Objects, ES6: Use Destructuring Assignment to Assign Variables from Arrays, ES6: Use Destructuring Assignment with the Rest Operator to Reassign Array Elements, ES6: Use Destructuring Assignment to Pass an Object as a Function's Parameters, 
+
+**Link to work:** [COOLOR PICKER](https://codepen.io/Srcko85/pen/KxErEE) 
+
 
 
 
