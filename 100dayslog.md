@@ -100,6 +100,12 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 
 **Link to work:** [COOLOR PICKER](https://codepen.io/Srcko85/pen/KxErEE) 
 
+### DAY 13. / 21th September 2018. Saturday
+**Todays Progress**: Today I have decided to stop with courses and everything and spent my time practising a JS part I have done in last few days. 
+
+**Todays Topics**: ES^ strings, loops, let,const, taking values from array, adding some things, making section to automatically change background color, again had some fun with color picker.
+
+
 
 
 
