@@ -108,9 +108,9 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 ### DAY 14. / 22th September 2018. Sunday
 **Todays Progress**: Getting ready for monday. Have done mobile first customisations today. Now will continue with ES6 course and latter some projects. After long summer it is freezing outside so will be day in with laptop and hot coffee / tee . 
 
-**Todays Topics**: 
+**Todays Topics**: ES6: Use Destructuring Assignment to Pass an Object as a Function's Parameters, ES6: Create Strings using Template Literals, ES6: Write Concise Object Literal Declarations Using Simple Fields, ES6: Write Concise Declarative Functions with ES6, ES6: Use class Syntax to Define a Constructor Function, ES6: Use getters and setters to Control Access to an Object, 
 
-**Link to work:** [COOLOR PICKER](https://codepen.io/Srcko85/pen/KxErEE) 
+**Link to work:** [JAVASCRIPT SLIDER](https://codepen.io/Srcko85/pen/BOErEr) 
 
 
 
