@@ -105,6 +105,12 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 
 **Todays Topics**: ES^ strings, loops, let,const, taking values from array, adding some things, making section to automatically change background color, again had some fun with color picker.
 
+### DAY 14. / 22th September 2018. Sunday
+**Todays Progress**: Getting ready for monday. Have done mobile first customisations today. Now will continue with ES6 course and latter some projects. After long summer it is freezing outside so will be day in with laptop and hot coffee / tee . 
+
+**Todays Topics**: 
+
+**Link to work:** [COOLOR PICKER](https://codepen.io/Srcko85/pen/KxErEE) 
 
 
 
