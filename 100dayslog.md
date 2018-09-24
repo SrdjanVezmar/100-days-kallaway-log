@@ -112,6 +112,13 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 
 **Link to work:** [JAVASCRIPT SLIDER](https://codepen.io/Srcko85/pen/BOErEr) 
 
+### DAY 15. / 23th September 2018. Monday
+**Todays Progress**: Have been working all day on logic part for the Quiz game with javascript. Decided to make a little break from codecamp course and start using what have I learned in real life projects. It is really important to change sometimes otherwise you get bored.
+
+**Todays Topics**: As I have said was working on Quiz Game Logic. Use of arrays , if statements and manipulating with DOM elements was something I have used. Deffo needs more styling but will finish that some other day.
+
+**Link to work:** [GOT Quiz GAME](https://codepen.io/Srcko85/pen/mGYVpx) 
+
 
 
 
