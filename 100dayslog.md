@@ -119,6 +119,11 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 
 **Link to work:** [GOT Quiz GAME](https://codepen.io/Srcko85/pen/mGYVpx) 
 
+### DAY 16. / 24th September 2018. Tuesday
+**Todays Progress**: Working on my Javascript projects . Just a bit practicing what have I done in last few weeks.
+
+**Todays Topics**: Arrays, loops and much more ES6. Already have done my login form , working on styling now. Will spare few more days to be 100% what have I doing and than go hard with rest of the course.
+
 
 
 
