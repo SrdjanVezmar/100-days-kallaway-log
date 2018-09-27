@@ -131,9 +131,9 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 
 
 ### DAY 18. / 26th September 2018. Thursday
-**Todays Progress**: Have been working all day on logic part for the Quiz game with javascript. Decided to make a little break from codecamp course and start using what have I learned in real life projects. It is really important to change sometimes otherwise you get bored.
+**Todays Progress**: Yesterday I have stoped on new section of my JS certification , on Introduction to the Regular Expression Challenges. Will spend some time with that today and finally do last few bits to my login form and some style . So I can do some bigger projects during weekend.
 
-**Todays Topics**: 
+**Todays Topics**: Regular Expressions: Using the Test Method, 
 
 **Link to work:** [GOT Quiz GAME](https://codepen.io/Srcko85/pen/mGYVpx) 
 
