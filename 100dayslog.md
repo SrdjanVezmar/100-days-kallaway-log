@@ -127,7 +127,16 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 ### DAY 17. / 25th September 2018. Wednesday
 **Todays Progress**: Time to continue with JS ES6. Even that I have been extreme busy last few days still managed my at least 1hr code time for a challenge. Now time to go and smash Js certification. 
 
-**Todays Topics**: ES6: Use getters and setters to Control Access to an Object, ES6: Understand the Differences Between import and require,  ES6: Use export to Reuse a Code Block, ES6: Use * to Import Everything from a File, ES6: Create an Export Fallback with export default, ###Introduction to the Regular Expression Challenges
+**Todays Topics**: ES6: Use getters and setters to Control Access to an Object, ES6: Understand the Differences Between import and require,  ES6: Use export to Reuse a Code Block, ES6: Use * to Import Everything from a File, ES6: Create an Export Fallback with export default, //Introduction to the Regular Expression Challenges// Regular expressions are special strings that represent a search pattern. Also known as "regex" or "regexp", they help programmers match, search, and replace text. Regular expressions can appear cryptic because a few characters have special meaning. The goal is to combine the symbols and text into a pattern that matches what you want, but only what you want. This section will cover the characters, a few shortcuts, and the common uses for writing regular expressions.
+
+
+### DAY 18. / 26th September 2018. Thursday
+**Todays Progress**: Have been working all day on logic part for the Quiz game with javascript. Decided to make a little break from codecamp course and start using what have I learned in real life projects. It is really important to change sometimes otherwise you get bored.
+
+**Todays Topics**: 
+
+**Link to work:** [GOT Quiz GAME](https://codepen.io/Srcko85/pen/mGYVpx) 
+
 
 
 
