@@ -124,6 +124,12 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 
 **Todays Topics**: Arrays, loops and much more ES6. Already have done my login form , working on styling now. Will spare few more days to be 100% what have I doing and than go hard with rest of the course.
 
+### DAY 17. / 25th September 2018. Wednesday
+**Todays Progress**: Time to continue with JS ES6. Even that I have been extreme busy last few days still managed my at least 1hr code time for a challenge. Now time to go and smash Js certification. 
+
+**Todays Topics**: 
+
+**Link to work:** 
 
 
 
