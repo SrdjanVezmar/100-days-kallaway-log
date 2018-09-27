@@ -133,7 +133,7 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 ### DAY 18. / 26th September 2018. Thursday
 **Todays Progress**: Yesterday I have stoped on new section of my JS certification , on Introduction to the Regular Expression Challenges. Will spend some time with that today and finally do last few bits to my login form and some style . So I can do some bigger projects during weekend.
 
-**Todays Topics**: Regular Expressions: Using the Test Method, 
+**Todays Topics**: Regular Expressions: Using the Test Method, Regular Expressions: Match Literal Strings, Regular Expressions: Match a Literal String with Different Possibilities, Regular Expressions: Ignore Case While Matching, Regular Expressions: Extract Matches
 
 **Link to work:** [GOT Quiz GAME](https://codepen.io/Srcko85/pen/mGYVpx) 
 
