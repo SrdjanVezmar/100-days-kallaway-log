@@ -127,9 +127,9 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 ### DAY 17. / 25th September 2018. Wednesday
 **Todays Progress**: Time to continue with JS ES6. Even that I have been extreme busy last few days still managed my at least 1hr code time for a challenge. Now time to go and smash Js certification. 
 
-**Todays Topics**: 
+**Todays Topics**: ES6: Use getters and setters to Control Access to an Object, ES6: Understand the Differences Between import and require,  ES6: Use export to Reuse a Code Block, ES6: Use * to Import Everything from a File, ES6: Create an Export Fallback with export default, ###Introduction to the Regular Expression Challenges
 
-**Link to work:** 
+
 
 
 
