@@ -148,9 +148,8 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 ### DAY 20. / 29th September 2018. Saturday
 **Todays Progress**: Time to continue with my ES6 Javascript certification on freecodecamp. This is gonna be JS weekend for sure. 
 
-**Todays Topics**: HTML5 , CSS3 & ES6 Javascript
+**Todays Topics**: Find More Than the First Match, Match Anything with Wildcard Period, Match Single Character with Multiple Possibilities, 
 
-**Link to work:** [Minimal Landing Page](https://codepen.io/Srcko85/pen/yRyQwe?editors=1100) 
 
 
 
