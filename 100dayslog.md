@@ -151,6 +151,12 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 **Todays Topics**: Find More Than the First Match, Match Anything with Wildcard Period, Match Single Character with Multiple Possibilities, Regular Expressions: Match Letters of the Alphabet, Regular Expressions: Match Numbers and Letters of the Alphabet, Regular Expressions: Match Single Characters Not Specified, Regular Expressions: Match Characters that Occur One or More Times, Regular Expressions: Match Characters that Occur Zero or More Times, Regular Expressions: Find Characters with Lazy Matching, Regular Expressions: Find One or More Criminals in a Hunt, Regular Expressions: Match Beginning String Patterns.
 
 
+### DAY 21. / 30th September 2018. Sunday
+**Todays Progress**: // Javascript Certification > Introduction to the Regular Expression Challenges
+
+**Todays Topics**: 
+
+
 
 
 
