@@ -138,7 +138,15 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 **Link to work:** [GOT Quiz GAME](https://codepen.io/Srcko85/pen/mGYVpx) 
 
 ### DAY 19. / 27th September 2018. Friday
-**Todays Progress**: Wii spend some time today and will try to make some minimal look landing page. Not give to much into styling today just to try and get everything to be on place with flex-box.
+**Todays Progress**: Will spend some time today and will try to make some minimal look landing page. Not give to much into styling today just to try and get everything to be on place with flex-box.
+
+**Todays Topics**: HTML5 , CSS3 & ES6 Javascript
+
+**Link to work:** [Minimal Landing Page](https://codepen.io/Srcko85/pen/yRyQwe?editors=1100) 
+
+
+### DAY 20. / 29th September 2018. Saturday
+**Todays Progress**: Time to continue with my ES6 Javascript certification on freecodecamp. This is gonna be JS weekend for sure. 
 
 **Todays Topics**: HTML5 , CSS3 & ES6 Javascript
 
