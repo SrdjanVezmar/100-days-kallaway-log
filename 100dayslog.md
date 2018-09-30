@@ -154,7 +154,7 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 ### DAY 21. / 30th September 2018. Sunday
 **Todays Progress**: // Javascript Certification > Introduction to the Regular Expression Challenges
 
-**Todays Topics**: Regular Expressions: Match Ending String Patterns, Regular Expressions: Match All Letters and Numbers, Regular Expressions: Match Everything But Letters and Numbers, Regular Expressions: Match All Numbers, Regular Expressions: Match All Non-Numbers, Regular Expressions: Restrict Possible Usernames, Regular Expressions: Match Whitespace, 
+**Todays Topics**: Regular Expressions: Match Ending String Patterns, Regular Expressions: Match All Letters and Numbers, Regular Expressions: Match Everything But Letters and Numbers, Regular Expressions: Match All Numbers, Regular Expressions: Match All Non-Numbers, Regular Expressions: Restrict Possible Usernames, Regular Expressions: Match Whitespace, Regular Expressions: Match Non-Whitespace Characters, Regular Expressions: Specify Upper and Lower Number of Matches, Regular Expressions: Specify Only the Lower Number of Matches.
 
 
 
