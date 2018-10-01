@@ -160,6 +160,14 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 **Link to work:** [Temperature Convetor](https://codepen.io/Srcko85/full/ePmwbz/) 
 
 
+### DAY 22. / 01st October 2018. Monday
+**Todays Progress**: // Javascript Certification > Introduction to the Regular Expression Challenges
+                      >> Introduction to the Debugging Challenges
+
+**Todays Topics**: Regular Expressions: Reuse Patterns Using Capture Groups, Regular Expressions: Use Capture Groups to Search and Replace, Regular Expressions: Remove Whitespace from Start and End, 
+
+**Link to work:** [Temperature Convetor](https://codepen.io/Srcko85/full/ePmwbz/) 
+
 
 
 
