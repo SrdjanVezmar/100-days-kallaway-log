@@ -164,7 +164,7 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 **Todays Progress**: // Javascript Certification > Introduction to the Regular Expression Challenges
                       >> Introduction to the Debugging Challenges
 
-**Todays Topics**: Regular Expressions: Reuse Patterns Using Capture Groups, Regular Expressions: Use Capture Groups to Search and Replace, Regular Expressions: Remove Whitespace from Start and End, 
+**Todays Topics**: Regular Expressions: Reuse Patterns Using Capture Groups, Regular Expressions: Use Capture Groups to Search and Replace, Regular Expressions: Remove Whitespace from Start and End, Debugging: Use the JavaScript Console to Check the Value of a Variable, Debugging: Understanding the Differences between the freeCodeCamp and Browser Console, Debugging: Use typeof to Check the Type of a Variable, 
 
 **Link to work:** [Temperature Convetor](https://codepen.io/Srcko85/full/ePmwbz/) 
 
