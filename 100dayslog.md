@@ -161,10 +161,10 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 
 ### DAY 22. / 01st October 2018. Monday
-**Todays Progress**: // Javascript Certification > Introduction to the Regular Expression Challenges
-                      >> Introduction to the Debugging Challenges
+**Todays Progress**: // Introduction to the Debugging Challenges
+                     // Introduction to the Basic Data Structure Challenges
 
-**Todays Topics**: Regular Expressions: Reuse Patterns Using Capture Groups, Regular Expressions: Use Capture Groups to Search and Replace, Regular Expressions: Remove Whitespace from Start and End, Debugging: Use the JavaScript Console to Check the Value of a Variable, Debugging: Understanding the Differences between the freeCodeCamp and Browser Console, Debugging: Use typeof to Check the Type of a Variable, Debugging: Catch Misspelled Variable and Function Names, Debugging: Catch Unclosed Parentheses, Brackets, Braces and Quotes, Debugging: Catch Mixed Usage of Single and Double Quotes, Debugging: Catch Use of Assignment Operator Instead of Equality Operator, Debugging: Catch Missing Open and Closing Parenthesis After a Function Call, Debugging: Catch Arguments Passed in the Wrong Order When Calling a Function. 
+**Todays Topics**:Debugging: Catch Off By One Errors When Using Indexing, Debugging: Use Caution When Reinitializing Variables Inside a Loop, Debugging: Prevent Infinite Loops with a Valid Terminal Condition, 
 
 **Link to work:** Haven't done any work slash projects today just went and explored debugging . Have a great week everyone. 
 
