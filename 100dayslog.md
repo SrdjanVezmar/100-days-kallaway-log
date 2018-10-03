@@ -164,7 +164,7 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 **Todays Progress**: // Introduction to the Debugging Challenges
                      // Introduction to the Basic Data Structure Challenges
 
-**Todays Topics**:Debugging: Catch Off By One Errors When Using Indexing, Debugging: Use Caution When Reinitializing Variables Inside a Loop, Debugging: Prevent Infinite Loops with a Valid Terminal Condition, 
+**Todays Topics**:Debugging: Catch Off By One Errors When Using Indexing, Debugging: Use Caution When Reinitializing Variables Inside a Loop, Debugging: Prevent Infinite Loops with a Valid Terminal Condition, Basic Data Structures: Use an Array to Store a Collection of Data, Basic Data Structures: Access an Array's Contents Using Bracket Notation, Basic Data Structures: Add Items to an Array with push() and unshift(), Basic Data Structures: Remove Items from an Array with pop() and shift(), 
 
 **Link to work:** Haven't done any work slash projects today just went and explored debugging . Have a great week everyone. 
 
