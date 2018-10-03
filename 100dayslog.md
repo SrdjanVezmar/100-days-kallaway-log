@@ -170,10 +170,11 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 
 ### DAY 23. / 02st October 2018. Tuesday
-**Todays Progress**: // Introduction to the Debugging Challenges
-                     // Introduction to the Basic Data Structure Challenges
+**Todays Progress**:  // Introduction to the Basic Data Structure Challenges
 
-**Todays Topics**: Basic Data Structures: Remove Items from an Array with pop() and shift(), 
+**Todays Topics**: Basic Data Structures: Remove Items from an Array with pop() and shift(), Basic Data Structures: Remove Items Using splice()
+
+      Will stop here today and will do some animated buttons using HTML 5 / CSS3 / JS
 
 **Link to work:** Haven't done any work slash projects today just went and explored debugging . Have a great week everyone. 
 
