@@ -185,9 +185,9 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 ### DAY 25. / 04th October 2018. Thursday
 **Todays Progress**: // How build a pretty nifty image gallery using Flexbox, CSS transitions and a sprinkle of JS to get things interactive. / WesBos Vanilla JS
 
-**Todays Topics**: 
+**Todays Topics**: Building Flex Box Image gallery with HTML5 / CSS3 and Few lines of Javascript. Actually working wesbos 30days challenge as well.
 
-**Link to work:** Haven't done any work slash projects today just went and explored debugging . Have a great week everyone. 
+**Link to work:** [Image Gallery](https://codepen.io/Srcko85/pen/gBLYJZ) 
 
 
 
