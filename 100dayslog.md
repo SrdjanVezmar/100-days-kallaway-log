@@ -176,7 +176,13 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
       Will stop here today and will do some animated buttons using HTML 5 / CSS3 / JS
 
+### DAY 24. / 03st October 2018. Wednesday
+**Todays Progress**: // Introduction to the Basic Data Structure Challenges
+
+**Todays Topics**: Basic Data Structures: Add Items Using splice(), 
+
 **Link to work:** Haven't done any work slash projects today just went and explored debugging . Have a great week everyone. 
+
 
 
 
