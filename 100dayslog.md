@@ -169,19 +169,25 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 **Link to work:** Haven't done any work slash projects today just went and explored debugging . Have a great week everyone. 
 
 
-### DAY 23. / 02st October 2018. Tuesday
+### DAY 23. / 02nd October 2018. Tuesday
 **Todays Progress**:  // Introduction to the Basic Data Structure Challenges
 
 **Todays Topics**: Basic Data Structures: Remove Items from an Array with pop() and shift(), Basic Data Structures: Remove Items Using splice()
 
       Will stop here today and will do some animated buttons using HTML 5 / CSS3 / JS
 
-### DAY 24. / 03st October 2018. Wednesday
+### DAY 24. / 03rd October 2018. Wednesday
 **Todays Progress**: // Introduction to the Basic Data Structure Challenges
 
 **Todays Topics**: Basic Data Structures: Add Items Using splice(), Basic Data Structures: Copy Array Items Using slice(), Basic Data Structures: Copy an Array with the Spread Operator, Basic Data Structures: Combine Arrays with the Spread Operator, Basic Data Structures: Check For The Presence of an Element With indexOf(), Basic Data Structures: Iterate Through All an Array's Items Using For Loops, Basic Data Structures: Create complex multi-dimensional arrays, 
 
 
+### DAY 25. / 04th October 2018. Thursday
+**Todays Progress**: // How build a pretty nifty image gallery using Flexbox, CSS transitions and a sprinkle of JS to get things interactive. / WesBos Vanilla JS
+
+**Todays Topics**: 
+
+**Link to work:** Haven't done any work slash projects today just went and explored debugging . Have a great week everyone. 
 
 
 
