@@ -194,7 +194,7 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 **Todays Topics**: Basic Data Structures: Create complex multi-dimensional arrays, Basic Data Structures: Add Key-Value Pairs to JavaScript Objects, Basic Data Structures: Modify an Object Nested Within an Object, Basic Data Structures: Access Property Names with Bracket Notation, Basic Data Structures: Use the delete Keyword to Remove Object Properties, Basic Data Structures: Check if an Object has a Property, Basic Data Structures: Iterate Through the Keys of an Object with a for...in Statement, Basic Data Structures: Generate an Array of All Object Keys with Object.keys(), Basic Data Structures: Modify an Array Stored in an Object. 
 
-**Link to work:** 
+**Link to work:** So today I have finished // Introduction to the Basic Data Structures and decided to try and build a 1st step on  todoList App. By first step I mean just a logic of how to add new 'TO DO' task to the list. [TodoList APP start](https://codepen.io/Srcko85/pen/gBLYJZ) 
 
 
 
