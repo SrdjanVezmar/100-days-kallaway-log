@@ -192,7 +192,7 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 ### DAY 26. / 05th October 2018. Friday
 **Todays Progress**: // Basic Data Structures
 
-**Todays Topics**: Basic Data Structures: Create complex multi-dimensional arrays, 
+**Todays Topics**: Basic Data Structures: Create complex multi-dimensional arrays, Basic Data Structures: Add Key-Value Pairs to JavaScript Objects, Basic Data Structures: Modify an Object Nested Within an Object, Basic Data Structures: Access Property Names with Bracket Notation, Basic Data Structures: Use the delete Keyword to Remove Object Properties, Basic Data Structures: Check if an Object has a Property, Basic Data Structures: Iterate Through the Keys of an Object with a for...in Statement, Basic Data Structures: Generate an Array of All Object Keys with Object.keys(), Basic Data Structures: Modify an Array Stored in an Object. 
 
 **Link to work:** 
 
