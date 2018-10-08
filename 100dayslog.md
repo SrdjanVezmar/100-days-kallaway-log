@@ -189,6 +189,13 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 **Link to work:** [Image Gallery](https://codepen.io/Srcko85/pen/gBLYJZ) 
 
+### DAY 26. / 05th October 2018. Friday
+**Todays Progress**: // Basic Data Structures
+
+**Todays Topics**: Basic Data Structures: Create complex multi-dimensional arrays, 
+
+**Link to work:** 
+
 
 
 
