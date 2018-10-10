@@ -196,6 +196,13 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 **Link to work:** So today I have finished // Introduction to the Basic Data Structures and decided to try and build a 1st step on  todoList App. By first step I mean just a logic of how to add new 'TO DO' task to the list. [TodoList APP start](https://codepen.io/Srcko85/pen/qJqdmR?editors=0010) 
 
+### DAY 27. / 06th October 2018. Saturday
+**Todays Progress**: // Introduction to Basic Algorithm Scripting
+
+**Todays Topics**: 
+
+**Link to work:** 
+
 
 
 
