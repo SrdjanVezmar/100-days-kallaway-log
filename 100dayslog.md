@@ -199,7 +199,7 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 ### DAY 27. / 06th October 2018. Saturday
 **Todays Progress**: // Introduction to Basic Algorithm Scripting
 
-**Todays Topics**: Basic Algorithm Scripting: Convert Celsius to Fahrenheit, Basic Algorithm Scripting: Reverse a String, Basic Algorithm Scripting: Factorialize a Number, 
+**Todays Topics**: Basic Algorithm Scripting: Convert Celsius to Fahrenheit, Basic Algorithm Scripting: Reverse a String, Basic Algorithm Scripting: Factorialize a Number, Basic Algorithm Scripting: Find the Longest Word in a String, Basic Algorithm Scripting: Return Largest Numbers in Arrays, Basic Algorithm Scripting: Confirm the Ending, Basic Algorithm Scripting: Repeat a String Repeat a String, 
 
 **Link to work:** 
 
