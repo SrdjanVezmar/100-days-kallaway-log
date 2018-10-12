@@ -204,6 +204,15 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 **Link to work:** Do not have real projects today. Will spend my time practicing what have i learned today. 
 
 
+### DAY 28. / 07th October 2018. Sunday
+**Todays Progress**: /* Today I have decided to spare few days doing some CSS3 animations, from loaders to toggle buttons. Simply I find out that it is much easier for me to stay focused if I do different things every now and then.
+
+**Todays Topics**: Pure CSS3 nd HTML5 preloader done with few articles / divs / and simple @keyframes animation. USed animation and animation-delay to get loading effect. 
+
+**Link to work:** [LOADER #1](https://codepen.io/Srcko85/full/dgzZZG/) 
+
+
+
 
 
 
