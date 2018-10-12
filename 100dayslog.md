@@ -211,6 +211,13 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 **Link to work:** [LOADER #1](https://codepen.io/Srcko85/full/dgzZZG/) 
 
+### DAY 29. / 08th October 2018. Monday
+**Todays Progress**: /* Doing a bit of CSS3 mix with Javascript Arrays , loops and innerHTML. 
+
+**Todays Topics**: In coming days, weeks and so on will try to combine more and more what have i have learned from JS and ES6 courses. Will give me best to start using JS in every project I do.
+
+**Link to work:** [PRACTICE #1](https://codepen.io/Srcko85/pen/XxaZKe?editors=1100) 
+
 
 
 
