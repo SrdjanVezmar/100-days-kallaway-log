@@ -218,6 +218,13 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 **Link to work:** [PRACTICE #1](https://codepen.io/Srcko85/pen/XxaZKe?editors=1100) 
 
+### DAY 30. / 09th October 2018. Tuesday
+**Todays Progress**: /* Doing more CSS3 animations. Working on few different CSS3 animation loaders. 
+
+**Todays Topics**: Pure CSS3 nd HTML5 preloader done with few articles / divs / and simple @keyframes animation. Used animation and animation-delay to get loading effect. 
+
+**Link to work:** [LOADER #2](https://codepen.io/Srcko85/pen/XxzYjj) 
+
 
 
 
