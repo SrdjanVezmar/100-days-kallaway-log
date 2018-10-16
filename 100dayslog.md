@@ -230,7 +230,7 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 **Todays Topics**: Pure CSS3 nd HTML5 preloader done with few articles / divs / and simple @keyframes animation. Used animation and animation-delay to get loading effect. 
 
-**Link to work:** [LOADER #3](https://codepen.io/Srcko85/pen/XxzYjj) 
+**Link to work:** [LOADER #3](https://codepen.io/Srcko85/pen/ZqaRML) 
 
 
 
