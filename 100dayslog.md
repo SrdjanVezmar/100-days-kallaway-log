@@ -225,6 +225,13 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 **Link to work:** [LOADER #2](https://codepen.io/Srcko85/pen/XxzYjj) 
 
+### DAY 31. / 10th October 2018. Wednesday
+**Todays Progress**: /* One more loader and I think I will take a break with them. 
+
+**Todays Topics**: Pure CSS3 nd HTML5 preloader done with few articles / divs / and simple @keyframes animation. Used animation and animation-delay to get loading effect. 
+
+**Link to work:** [LOADER #3](https://codepen.io/Srcko85/pen/XxzYjj) 
+
 
 
 
