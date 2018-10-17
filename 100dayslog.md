@@ -232,6 +232,15 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 **Link to work:** [LOADER #3](https://codepen.io/Srcko85/pen/ZqaRML) 
 
+### DAY 32. / 11th October 2018. Thursday
+**Todays Progress**: <!-- Making a break from Loaders collection and decided to go and make simple log in verification form . Form works with one username and password and once they are right you get msg. Also if inputs.value is empty string you get alert. Same happens with wrong password and username. As I said easy and simple verification code but still good enough to practice javascript. 
+
+**Todays Topics**: HTML5 / CSS3 nd Javascript. Covering setting up inputs  with HTML5, then styling done with CSS3, same goes for few simple animations done with @keyframes . At the end Javascript part with if else if statements , and lets values and basic manipulation with DOM.
+
+**Link to work:** [JS LOGIN VERIFICATION ](https://codepen.io/Srcko85/full/) 
+
+
+
 
 
 
