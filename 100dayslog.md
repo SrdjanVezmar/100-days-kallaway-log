@@ -246,6 +246,13 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 **Link to work:** [LOADER #4 ](https://codepen.io/Srcko85/full/oaERzz/) 
 
+### DAY 34. / 13th October 2018. Saturday
+**Todays Progress**: // Today spend day practicing with Inkscape and svg files working with CSS animations. Also have done starting mock up off my portfolio website and finally got time to do this challenge. Decided to make a section to reveal a name //or any other info // with onClick event. Basic Javascipt but willnot stop practicing till it is perfect.
+
+**Todays Topics**: CSS3 / HTML5 / Javascript 
+
+**Link to work:** [onClick JS event](https://codepen.io/Srcko85/full/EdErZq/) 
+
 
 
 
