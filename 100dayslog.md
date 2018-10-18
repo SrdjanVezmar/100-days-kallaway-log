@@ -239,6 +239,13 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 **Link to work:** [JS LOGIN VERIFICATION ](https://codepen.io/Srcko85/full/) 
 
+### DAY 33. / 12th October 2018. Friday
+**Todays Progress**: /* I suppose I have lied when I said I am done with CSS loaders. This is not exactly loader it is more a playground for CSS3 animation , translate & keyframes .
+
+**Todays Topics**: Pure CSS3 nd HTML5 preloader done with few articles / divs / and simple @keyframes animation. Used animation and animation-delay to get loading effect. 
+
+**Link to work:** [LOADER #4 ](https://codepen.io/Srcko85/full/oaERzz/) 
+
 
 
 
