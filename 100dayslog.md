@@ -257,7 +257,7 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 **Todays Progress**: // Time to go back to my Javascript certification on freecodeacademy. Time to learn more and more and more.
                     // Object Oriented Programming
 
-**Todays Topics**: Object Oriented Programming: Create a Basic JavaScript Object, Object Oriented Programming: Use Dot Notation to Access the Properties of an Object, Object Oriented Programming: Create a Method on an Object, Object Oriented Programming: Make Code More Reusable with the this Keyword, Object Oriented Programming: Define a Constructor Function, Object Oriented Programming: Use a Constructor to Create Objects, Object Oriented Programming: Extend Constructors to Receive Arguments, Object Oriented Programming: Verify an Object's Constructor with instanceof, 
+**Todays Topics**: Object Oriented Programming: Create a Basic JavaScript Object, Object Oriented Programming: Use Dot Notation to Access the Properties of an Object, Object Oriented Programming: Create a Method on an Object, Object Oriented Programming: Make Code More Reusable with the this Keyword, Object Oriented Programming: Define a Constructor Function, Object Oriented Programming: Use a Constructor to Create Objects, Object Oriented Programming: Extend Constructors to Receive Arguments, Object Oriented Programming: Verify an Object's Constructor with instanceof, Object Oriented Programming: Understand Own Properties, Object Oriented Programming: Use Prototype Properties to Reduce Duplicate Code, Object Oriented Programming: Iterate Over All Properties, Object Oriented Programming: Understand the Constructor Property, 
 
 
 
