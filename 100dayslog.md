@@ -253,6 +253,13 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 **Link to work:** [onClick JS event](https://codepen.io/Srcko85/full/EdErZq/) 
 
+### DAY 35. / 14th October 2018. Sunday
+**Todays Progress**: // Time to go back to my Javascript certification on freecodeacademy. Time to learn more and more and more.
+                    // Object Oriented Programming
+
+**Todays Topics**: Object Oriented Programming: Create a Basic JavaScript Object, 
+
+
 
 
 
