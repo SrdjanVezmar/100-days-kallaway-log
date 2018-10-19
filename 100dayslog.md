@@ -261,6 +261,13 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 **Link to work:**  I have finished Object Oriented Programming from my Javascript course, so no projects today. Will spare some time practicing what have I learned today. 
 
+### DAY 36. / 15th October 2018. Monday
+**Todays Progress**: // Hour well spent. Sidebar nav , hidden that show up once onclick event is fired. Basic and simple , too much fun.
+
+**Todays Topics**: CSS3 / HTML5 / Javascript 
+
+**Link to work:** [SIDEBAR NAV](https://codepen.io/Srcko85/full/VExBeW/) 
+
 
 
 
