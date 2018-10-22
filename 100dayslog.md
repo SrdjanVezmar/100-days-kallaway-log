@@ -268,6 +268,13 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 **Link to work:** [SIDEBAR NAV](https://codepen.io/Srcko85/full/VExBeW/) 
 
+### DAY 37. / 16th October 2018. Tuesday
+**Todays Progress**: /* I think I have found new passion. Will spend much more time in the future on this, but for now I have just started to try and do images with CSS3. Still rather confused about some aspects of this, but will deffo practice it more and more.
+
+**Todays Topics**: HTML5 nd CSS3
+
+**Link to work:** [Shopping Bag cssimages](https://codepen.io/Srcko85/full/KGeKqj/) 
+
 
 
 
