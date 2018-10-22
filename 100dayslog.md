@@ -275,6 +275,14 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 **Link to work:** [Shopping Bag cssimages](https://codepen.io/Srcko85/full/KGeKqj/) 
 
+### DAY 38. / 17th October 2018. Wednesday
+**Todays Progress**: // Back to the Javascript Certification freecodecamp course
+                      // Functional Programming
+
+**Todays Topics**: 
+
+**Link to work:** 
+
 
 
 
