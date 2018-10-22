@@ -279,7 +279,7 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 **Todays Progress**: // Back to the Javascript Certification freecodecamp course
                       // Functional Programming
 
-**Todays Topics**: 
+**Todays Topics**: Functional Programming: Learn About Functional Programming, Functional Programming: Understand Functional Programming Terminology, Functional Programming: Understand the Hazards of Using Imperative Code, Functional Programming: Avoid Mutations and Side Effects Using Functional Programming, Functional Programming: Pass Arguments to Avoid External Dependence in a Function, 
 
 **Link to work:** 
 
