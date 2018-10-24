@@ -290,7 +290,12 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 **Link to work:** [Burger Menu](https://codepen.io/Srcko85/full/YJOXro/) 
 
+### DAY 40. / 19th October 2018. Friday
+**Todays Progress**: /* Drawing with CSS3 day
 
+**Todays Topics**: HTML5 nd CSS3
+
+**Link to work:** [Egg In The Pen](https://codepen.io/Srcko85/full/JmeOzg/) 
 
 
 
