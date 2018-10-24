@@ -283,6 +283,12 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 **Link to work:** No projects today.
 
+### DAY 39. / 18th October 2018. Thursday
+**Todays Progress**: /* Another day mixing CSS3 and Javascript. As I said no doubts I could go a wee depper and do more complex projects I have decided to spend this challenge doing some basic stuff and spending an hour every day on it. Today it was turn for toggle burger menu.
+
+**Todays Topics**: HTML5 / CSS3 / Javascript
+
+**Link to work:** [Burger Menu](https://codepen.io/Srcko85/full/YJOXro/) 
 
 
 
