@@ -297,7 +297,12 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 **Link to work:** [Egg In The Pen](https://codepen.io/Srcko85/full/JmeOzg/) 
 
+### DAY 41. / 20th October 2018. Saturday
+**Todays Progress**: Today I have spent day mostly mocking up things for my portfolio that is coming soon. Still I have managed to do some coding but was basically playing around with menus and toggle buttons.
 
+**Todays Topics**: HTML5 // CSS3 // Javascript
+
+**Link to work:** [No Projects Today]() 
 
 
 
