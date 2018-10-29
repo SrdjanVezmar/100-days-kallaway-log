@@ -305,4 +305,12 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 **Link to work:** [No Projects Today]() 
 
 
+### DAY 42. / 21th October 2018. Sunday
+**Todays Progress**: Progress bar buttons with CSS3. Practice every day all day.
+
+**Todays Topics**: HTML5 // CSS3
+
+**Link to work:** [Progress Bars](https://codepen.io/Srcko85/full/NOmBbo/) 
+
+
 
