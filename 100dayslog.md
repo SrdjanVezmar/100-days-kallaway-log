@@ -312,5 +312,12 @@ Regular Expressions: Specify Exact Number of Matches, Regular Expressions: Check
 
 **Link to work:** [Progress Bars](https://codepen.io/Srcko85/full/NOmBbo/) 
 
+### DAY 43. / 22th October 2018. Monday
+**Todays Progress**: Time to go back to my Javascript certification. Took mi longer than I thought but at least I was very busy with some projects and at work. 
+
+**Todays Topics**: 
+
+**Link to work:** No projects today
+
 
 
